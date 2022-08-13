@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div1h2 {
+    border-radius: 10px;
+    border: 2px solid blue;
+    background-image: linear-gradient(to left bottom, #000814, #002244, #003779, #004cb1, #005eea);
+    padding: 15px;
+    color: white;
+}
+
+#wrapper {
+    align-self: center;
+}
+#wrapper, #summaryDiv {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* margin: 100px; */
+}
+
+#summaryDiv {
+    border: 2px solid black;
+    /* height: 100px; */
+    padding: 50px;
+    border: 2px solid black;
+    border-Radius: 10px;
+}
