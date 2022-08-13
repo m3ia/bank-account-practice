@@ -1,4 +1,4 @@
-# About This App:
+# Bank Account Project:
 For Techtonica, we practiced creating a constructor and ensuring those methods worked with a full web page using just HTML, CSS, and JavaScript.
 
 For this challenge, I learned a lot about manipulating DOM elements solely through scripts.
@@ -14,7 +14,7 @@ We also have basic validation:
 ![gif of validation](./validation.gif)
 
 ---
-#Spec
+## Spec
 ### Modeling a bank account
 
 Write a program that creates an `account` object with the following characteristics:
